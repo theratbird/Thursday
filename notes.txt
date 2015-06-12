@@ -1,3 +1,5 @@
 Tomorrow!  Friday is just one more day away!  Will we be able to use git to get everything just right?
 
 Now it is 8PM on Thursday night.
+
+These changes take a little time.
